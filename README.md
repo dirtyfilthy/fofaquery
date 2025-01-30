@@ -21,7 +21,7 @@ The usual.
 
 
 ## Usage
-
+```
 usage: fofaquery.py [-h] -k KEY [-q QUERY] [-F FIELDS] [-s SIZE] [-d DELAY] [-O ORG] -o OUTPUT [-f {text,json}]
 
 FOFA Query Tool
@@ -38,7 +38,7 @@ options:
   -f, --format {text,json}
                         Output format
 
-
+```
 ## Changelog
 
 ### 0.1 31/01/2025
